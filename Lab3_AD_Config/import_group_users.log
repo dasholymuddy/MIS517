@@ -1,0 +1,90 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20221002194530
+Username: FA_JC\Administrator
+RunAs User: FA_JC\Administrator
+Configuration Name: 
+Machine: WIN-HD1SAQNBI8N (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6748
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>TerminatingError(Import-Csv): "Could not find file 'C:\Users\Administrator\Documents\Lab3\git\MIS517\OrgChartDataGroupUsers.csv'."
+**********************
+Windows PowerShell transcript end
+End time: 20221002194531
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221002194601
+Username: FA_JC\Administrator
+RunAs User: FA_JC\Administrator
+Configuration Name: 
+Machine: WIN-HD1SAQNBI8N (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6748
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+**********************
+Windows PowerShell transcript end
+End time: 20221002194601
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221002194640
+Username: FA_JC\Administrator
+RunAs User: FA_JC\Administrator
+Configuration Name: 
+Machine: WIN-HD1SAQNBI8N (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6748
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>TerminatingError(Import-Csv): "Cannot find drive. A drive with the name 'CC' does not exist."
+**********************
+Windows PowerShell transcript end
+End time: 20221002194640
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221002194651
+Username: FA_JC\Administrator
+RunAs User: FA_JC\Administrator
+Configuration Name: 
+Machine: WIN-HD1SAQNBI8N (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6748
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+**********************
+Windows PowerShell transcript end
+End time: 20221002194651
+**********************
